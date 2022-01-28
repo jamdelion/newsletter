@@ -1,1 +1,3 @@
-# newsletter
+# FAC newsletter
+
+Imagining what a ![FAC](https://www.foundersandcoders.com/) newsletter could look like...
